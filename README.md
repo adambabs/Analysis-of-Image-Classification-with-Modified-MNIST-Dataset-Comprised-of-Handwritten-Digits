@@ -1,0 +1,2 @@
+# Analysis-of-Image-Classification-with-Modified-MNIST-Dataset-Comprised-of-Handwritten-Digits
+ Projects  Analysis of Image Classification with Modified MNIST Dataset Comprised of Handwritten Digits Oct 2019 – Nov 2019  Project descriptionApplication of Convolutional Neural Networks to perform image recognition tasks.  The main objective of this project is to categorize images from the modified MNIST dataset, which contains handwritten digits. More precisely, the model is supposed to label each image according to the highest numeric value found in the picture.
